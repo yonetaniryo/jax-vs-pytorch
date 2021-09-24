@@ -9,7 +9,7 @@ ipdb
 # deep learning frameworks
 torch
 torchvision
-jax
+jax  # [todo] need to install jax[cuda111] for enabling training on GPU
 flax
 tensorflow-cpu
 tensorflow-datasets

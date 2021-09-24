@@ -1,4 +1,4 @@
-FROM nvidia/cuda:11.4.1-devel-ubuntu18.04
+FROM nvidia/cuda:11.4.1-cudnn8-devel-ubuntu18.04
 
 ENV DEBIAN_FRONTEND=noninteractive
 RUN apt-get -y update && apt-get -y install --no-install-recommends software-properties-common libgl1-mesa-dev
