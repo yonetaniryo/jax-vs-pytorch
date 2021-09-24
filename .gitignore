@@ -76,6 +76,7 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+notebooks/.ipynb_checkpoints
 
 # IPython
 profile_default/
@@ -127,3 +128,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# project-specific
+notebooks/data

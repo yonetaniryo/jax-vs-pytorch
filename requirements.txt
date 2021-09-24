@@ -1,0 +1,15 @@
+# development tools
+ipython
+jupyter
+ipywidgets
+jupyterlab
+matplotlib
+ipdb
+
+# deep learning frameworks
+torch
+torchvision
+jax
+flax
+tensorflow-cpu
+tensorflow-datasets
